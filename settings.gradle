@@ -1,0 +1,5 @@
+rootProject.name = 'MultiProject'
+include 'shared'
+include 'Plugin-1.12'
+include 'Plugin-1.16'
+

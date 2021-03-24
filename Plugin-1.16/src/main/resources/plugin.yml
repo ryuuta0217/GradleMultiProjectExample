@@ -1,0 +1,5 @@
+name: "SomePlugin"
+version: "1.0"
+api-version: 1.16
+author: "ryuuta0217"
+main: "com.ryuuta0217.multiproj.example.plugin.Main"
